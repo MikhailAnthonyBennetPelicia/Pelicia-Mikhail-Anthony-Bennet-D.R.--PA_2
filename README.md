@@ -24,4 +24,4 @@ tenbyten = hundred.reshape(10, 10) **2
 div_by_3 = tenbyten[tenbyten % 3 == 0]
 #This saves the array as "div_by_3.npy"
 np.save('div_by_3.npy', div_by_3)
-1111
+````
